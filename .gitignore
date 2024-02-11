@@ -17,3 +17,5 @@
 
 # our binary
 go-http
+
+dist/
